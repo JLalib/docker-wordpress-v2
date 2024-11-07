@@ -1,2 +1,1 @@
-# docker-wordpress-v2
-Wordpress | PHPMYADMIN
+# Wordpress | wordpress, mysql & phpmyadmin
